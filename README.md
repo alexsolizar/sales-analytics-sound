@@ -4,6 +4,8 @@ Welcome to the Sales Analytics Project repository! This project analyzes sales d
 
 ## Project Overview
 
+<img src="pbi-dashboard.jpg">
+
 This project aims to:
 
 - Provide a comprehensive analysis of sales performance using structured and interactive reports.
