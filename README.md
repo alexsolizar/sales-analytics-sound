@@ -81,3 +81,8 @@ For questions or collaboration, feel free to reach out:
 ---
 
 We hope this project serves as a useful tool for analyzing sales data. Contributions and suggestions are always welcome!
+
+## Credits
+
+The methodologies used in this project is based on https://github.com/Gaelim/youtube/tree/master repository of Gaelim.
+I have introduced some changes to fit with the use cases of this project.
