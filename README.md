@@ -27,10 +27,11 @@ This project aims to:
 
 ## Project Structure
 
-- **/SQL_queries:** Contains the SQL scripts used for querying the sales data.
-- **/PowerBI_reports:** Includes `.pbix` files for Power BI dashboards.
-- **/Documentation:** Contains supporting documentation like metrics definitions and data source details.
+- **/assets** Contains the images used in Power BI dashboard.
+- **/data:** Contains the csv files that were used as datasources for the report.
 - **README.md:** Overview of the project.
+- **Sales Analysis.pbix:** The Power BI dashboard.
+- **SQLQuery1.sql:** Contains the SQL scripts used for querying the sales data.
 
 ## Getting Started
 
